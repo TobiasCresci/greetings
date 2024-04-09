@@ -1,3 +1,3 @@
-module github.com/TobiasCresci/greetings-golang
+module greetings
 
 go 1.21.3
