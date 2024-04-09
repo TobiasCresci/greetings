@@ -6,6 +6,6 @@ Este paquete es para saludar a personas random
 
 Ejecuta ell siguiente comando para instalar el paquete
 ```bash
-go get -u github.com/TobiasCresci/greetings
+go get -u github.com/TobiasCresci/greetings-golang
 ```
 
